@@ -8,12 +8,12 @@
 
 #### Skills Programing
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,postgres&theme=light)](https://skillicons.dev)
 <br>
 
 #### The Skill That I'm Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,py,sklearn,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux&theme=light)](https://skillicons.dev)
 <br>
 
 #### Skills Creative
