@@ -8,7 +8,7 @@
 
 #### Skills Programing
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,postgres&theme=light)](https://skillicons.dev)
 <br>
 
 #### The Skill That I'm Currently Learning
